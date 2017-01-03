@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="AdntDeneme" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="AdntDenemeContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SirketSet" EntityType="AdntDeneme.Sirket" />
+    <EntitySet Name="PersonelSet" EntityType="AdntDeneme.Personel" />
+  </EntityContainer>
+  <EntityType Name="Sirket">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="SirketAdi" Nullable="false" />
+    <Property Type="String" Name="SirketAdresi" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Adi" Nullable="false" />
+    <Property Type="String" Name="Soyadi" Nullable="false" />
+    <Property Type="Int32" Name="SirketId" Nullable="false" />
+  </EntityType>
+</Schema>

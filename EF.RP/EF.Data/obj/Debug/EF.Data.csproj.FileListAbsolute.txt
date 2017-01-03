@@ -1,0 +1,9 @@
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\bin\Debug\EF.Data.dll.config
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\bin\Debug\EF.Data.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\bin\Debug\EF.Data.pdb
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\bin\Debug\EntityFramework.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\bin\Debug\EntityFramework.xml
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\obj\Debug\EF.Data.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Data\obj\Debug\EF.Data.pdb

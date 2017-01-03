@@ -1,0 +1,12 @@
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EF.Business.dll.config
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EF.Business.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EF.Business.pdb
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EF.Data.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EntityFramework.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EF.Data.pdb
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EntityFramework.xml
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\obj\Debug\EF.Business.csprojResolveAssemblyReference.cache
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\obj\Debug\EF.Business.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Business\obj\Debug\EF.Business.pdb

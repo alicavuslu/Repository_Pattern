@@ -1,0 +1,16 @@
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\bin\Debug\EF.Client.exe.config
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\bin\Debug\EF.Client.exe
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\bin\Debug\EF.Client.pdb
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\bin\Debug\EntityFramework.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\bin\Debug\EntityFramework.xml
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\MainWindow.baml
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\App.g.cs
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\EF.Client_MarkupCompile.cache
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\EF.Client.g.resources
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\EF.Client.Properties.Resources.resources
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\EF.Client.csproj.GenerateResource.Cache
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\EF.Client.exe
+C:\Users\03160084\Documents\Visual Studio 2010\Projects\RP\EF.RP\EF.Client\obj\x86\Debug\EF.Client.pdb
